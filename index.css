@@ -52,7 +52,7 @@ body {
   align-items: center;
   height: 100%;
   width: 25%;
-  background-color: grey;
+  background-color: yellow;
 }
 
 .operation-buttons > div:not(:last-of-type) {
@@ -71,8 +71,7 @@ body {
   flex-direction: row;
   flex-wrap: wrap;
   width: 75%;
-  background-color: cyan;
-  color: red;
+  background-color: red;
   border-bottom-left-radius: 15px;
 }
 
@@ -97,7 +96,7 @@ body {
   align-items: center;
   height: 100%;
   width: 25%;
-  background-color: orange;
+  background-color: green;
   border-bottom-right-radius: 15px;
   border-left: 0.5px solid black;
 }
